@@ -1,0 +1,2 @@
+Needed ESP32 dev board and arduino support for ESP32 device goto https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+next need to install the arduino SPIFFS filesystem data uploader, https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
